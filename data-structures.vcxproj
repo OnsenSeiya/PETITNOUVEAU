@@ -16,3 +16,4 @@
     <ClCompile Include="linkedlist_simple.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="stack.c" />
+  </ItemGroup>
