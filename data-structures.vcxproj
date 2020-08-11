@@ -13,3 +13,4 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="queue.c" />
+    <ClCompile Include="linkedlist_simple.c" />
