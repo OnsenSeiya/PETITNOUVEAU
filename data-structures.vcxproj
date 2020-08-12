@@ -17,3 +17,8 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="stack.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="queue.h" />
+    <ClInclude Include="linkedlist_simple.h" />
+    <ClInclude Include="stack.h" />
+  </ItemGroup>
