@@ -24,3 +24,5 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{87012CB1-D7FC-4369-9A8D-95C133EAC858}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>data-structures</RootNamespace>
