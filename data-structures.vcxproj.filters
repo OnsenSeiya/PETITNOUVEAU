@@ -32,3 +32,4 @@
   <ItemGroup>
     <ClInclude Include="linkedlist_simple.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
