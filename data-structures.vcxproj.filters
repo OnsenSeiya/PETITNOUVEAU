@@ -33,3 +33,6 @@
     <ClInclude Include="linkedlist_simple.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
