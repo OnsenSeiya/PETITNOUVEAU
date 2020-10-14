@@ -29,3 +29,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="linkedlist_simple.h">
+      <Filter>Header Files</Filter>
