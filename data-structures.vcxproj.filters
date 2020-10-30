@@ -38,3 +38,6 @@
     </ClInclude>
     <ClInclude Include="queue.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
