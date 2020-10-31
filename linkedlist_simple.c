@@ -6,3 +6,4 @@
 
 List *list_init(){
 	return NULL;
+}
