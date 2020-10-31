@@ -7,3 +7,6 @@
 List *list_init(){
 	return NULL;
 }
+
+List *list_add(List *list, int data){
+	List *lnew = (List *)malloc(sizeof(List));
