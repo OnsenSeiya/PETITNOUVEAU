@@ -10,3 +10,5 @@ List *list_init(){
 
 List *list_add(List *list, int data){
 	List *lnew = (List *)malloc(sizeof(List));
+	lnew->data = data;
+	lnew->next = NULL;
