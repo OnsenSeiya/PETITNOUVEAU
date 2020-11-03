@@ -15,3 +15,5 @@ List *list_add(List *list, int data){
 
 	if (list == NULL)
 		return lnew;
+
+	List *llast = list;
