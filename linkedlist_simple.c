@@ -17,3 +17,5 @@ List *list_add(List *list, int data){
 		return lnew;
 
 	List *llast = list;
+	while (llast->next != NULL){
+		llast = llast->next;
