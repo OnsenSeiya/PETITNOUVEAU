@@ -23,3 +23,6 @@ List *list_add(List *list, int data){
 	llast->next = lnew;
 	return list;
 }
+
+List *list_remove(List *list, int data){
+	if (list == NULL)
