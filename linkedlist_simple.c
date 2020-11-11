@@ -26,3 +26,4 @@ List *list_add(List *list, int data){
 
 List *list_remove(List *list, int data){
 	if (list == NULL)
+		return list;
