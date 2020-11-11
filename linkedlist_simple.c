@@ -29,3 +29,5 @@ List *list_remove(List *list, int data){
 		return list;
 	if (list->data == data)
 		return list->next;
+
+	List *llast = list;
