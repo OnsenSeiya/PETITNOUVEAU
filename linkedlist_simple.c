@@ -31,3 +31,5 @@ List *list_remove(List *list, int data){
 		return list->next;
 
 	List *llast = list;
+
+	while (llast->next != NULL){
