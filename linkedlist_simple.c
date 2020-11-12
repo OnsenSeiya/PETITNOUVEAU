@@ -34,3 +34,5 @@ List *list_remove(List *list, int data){
 
 	while (llast->next != NULL){
 		if (llast->next->data == data){
+			llast->next = llast->next->next;
+			break;
