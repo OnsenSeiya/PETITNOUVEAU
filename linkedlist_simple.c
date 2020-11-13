@@ -37,3 +37,4 @@ List *list_remove(List *list, int data){
 			llast->next = llast->next->next;
 			break;
 		}
+		llast = llast->next;
