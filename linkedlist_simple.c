@@ -41,3 +41,6 @@ List *list_remove(List *list, int data){
 	}
 	return list;
 }
+
+void list_print(List *list){
+    List *l;
