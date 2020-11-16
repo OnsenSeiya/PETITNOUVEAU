@@ -44,3 +44,4 @@ List *list_remove(List *list, int data){
 
 void list_print(List *list){
     List *l;
+	for (l = list; l != NULL; l = l->next){
