@@ -47,3 +47,5 @@ void list_print(List *list){
 	for (l = list; l != NULL; l = l->next){
 		printf("%d->", l->data);
 	}
+	printf("|\n");
+}
