@@ -7,3 +7,5 @@ struct List_ {
 
 List *list_init();
 void list_destroy(List *l);
+List *list_add(List *l, int data);
+List *list_remove(List *l, int data);
