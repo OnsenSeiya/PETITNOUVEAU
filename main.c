@@ -1,2 +1,2 @@
 #include <stdio.h>
-#include "stack.
+#include "stack.h"
