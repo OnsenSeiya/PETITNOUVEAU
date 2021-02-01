@@ -4,4 +4,4 @@
 
 int main()
 {
-    /*Stack *s = sta
+    /*Stack *s = stac
