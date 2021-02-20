@@ -4,4 +4,4 @@
 
 int main()
 {
-    /*Stack *s = stack_init
+    /*Stack *s = stack_init();
