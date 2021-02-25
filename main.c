@@ -5,4 +5,4 @@
 int main()
 {
     /*Stack *s = stack_init();
-    stack_push(
+    stack_push(s,
