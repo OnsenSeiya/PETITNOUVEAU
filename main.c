@@ -6,3 +6,4 @@ int main()
 {
     /*Stack *s = stack_init();
     stack_push(s, 5);
+ 
