@@ -8,4 +8,4 @@ int main()
     stack_push(s, 5);
     stack_push(s, 1);
     stack_push(s, 6);
-    stack_print(s)
+    stack_print(s);
