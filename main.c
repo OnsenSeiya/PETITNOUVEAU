@@ -11,4 +11,4 @@ int main()
     stack_print(s);
 	*/
 
-	Q
+	Que
