@@ -10,3 +10,5 @@ int main()
     stack_push(s, 6);
     stack_print(s);
 	*/
+
+	Q
