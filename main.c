@@ -11,4 +11,4 @@ int main()
     stack_print(s);
 	*/
 
-	Queue *q = queue
+	Queue *q = queue_in
