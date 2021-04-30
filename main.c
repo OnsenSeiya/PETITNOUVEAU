@@ -12,4 +12,4 @@ int main()
 	*/
 
 	Queue *q = queue_init();
-	queue_e
+	queue_enq
