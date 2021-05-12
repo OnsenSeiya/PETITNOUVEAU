@@ -13,4 +13,4 @@ int main()
 
 	Queue *q = queue_init();
 	queue_enqueue(q, 5);
-	queu
+	queue
