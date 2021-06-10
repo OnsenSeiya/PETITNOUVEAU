@@ -15,3 +15,5 @@ int main()
 	queue_enqueue(q, 5);
 	queue_enqueue(q, 1);
 	queue_enqueue(q, 9);
+
+	q
