@@ -16,4 +16,4 @@ int main()
 	queue_enqueue(q, 1);
 	queue_enqueue(q, 9);
 
-	queue_
+	queue_pr
