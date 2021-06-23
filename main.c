@@ -17,3 +17,5 @@ int main()
 	queue_enqueue(q, 9);
 
 	queue_print(q);
+
+	
