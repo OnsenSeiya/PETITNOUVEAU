@@ -18,4 +18,4 @@ int main()
 
 	queue_print(q);
 
-	getcha
+	getchar()
