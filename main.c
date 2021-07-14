@@ -19,4 +19,4 @@ int main()
 	queue_print(q);
 
 	getchar();
-    return
+    return 0;
