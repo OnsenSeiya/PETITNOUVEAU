@@ -3,3 +3,5 @@
 #include <stdio.h>
 #include "queue.h"
 #include "linkedlist_simple.h"
+
+struct Queue_ {
