@@ -7,3 +7,4 @@
 struct Queue_ {
     List *head;
     List *tail;
+};
