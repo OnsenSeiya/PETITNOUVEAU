@@ -14,3 +14,4 @@ Queue *queue_init(){
     h->head = NULL;
     h->tail = NULL;
     return h;
+}
