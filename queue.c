@@ -12,3 +12,5 @@ struct Queue_ {
 Queue *queue_init(){
 	Queue *h = (Queue *)malloc(sizeof(Queue));
     h->head = NULL;
+    h->tail = NULL;
+    return h;
