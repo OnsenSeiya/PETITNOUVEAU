@@ -15,3 +15,5 @@ Queue *queue_init(){
     h->tail = NULL;
     return h;
 }
+
+void queue_enqueue(Queue *q, int elem){
