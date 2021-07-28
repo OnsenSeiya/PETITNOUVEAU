@@ -8,3 +8,7 @@ struct Queue_ {
     List *head;
     List *tail;
 };
+
+Queue *queue_init(){
+	Queue *h = (Queue *)malloc(sizeof(Queue));
+    h->head = NULL;
