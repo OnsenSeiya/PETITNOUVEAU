@@ -19,3 +19,6 @@ Queue *queue_init(){
 void queue_enqueue(Queue *q, int elem){
     List *lnew = (List *) malloc(sizeof(List));
     lnew->data = elem;
+    lnew->next = NULL;
+
+	if (q->head == NULL){
