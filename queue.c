@@ -27,3 +27,4 @@ void queue_enqueue(Queue *q, int elem){
 	else if(q->tail == NULL){
 		q->head->next = lnew;
 		q->tail = lnew;
+	}
