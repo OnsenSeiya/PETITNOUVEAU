@@ -39,3 +39,5 @@ int *queue_dequeue(Queue *q){
 	if (q == NULL || q->head == NULL){
 		return NULL;
 	}
+
+	List *elm = q->head;
