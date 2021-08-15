@@ -37,3 +37,5 @@ void queue_enqueue(Queue *q, int elem){
 
 int *queue_dequeue(Queue *q){
 	if (q == NULL || q->head == NULL){
+		return NULL;
+	}
