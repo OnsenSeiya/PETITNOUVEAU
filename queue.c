@@ -32,3 +32,5 @@ void queue_enqueue(Queue *q, int elem){
 		List *prevtail = q->tail;
 		prevtail->next = lnew;
 		q->tail = lnew;
+	}
+}
