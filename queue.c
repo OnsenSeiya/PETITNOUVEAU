@@ -42,3 +42,5 @@ int *queue_dequeue(Queue *q){
 
 	List *elm = q->head;
 	q->head = elm->next;
+	
+	if (elm->next == NULL){
