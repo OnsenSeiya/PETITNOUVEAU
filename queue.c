@@ -44,3 +44,4 @@ int *queue_dequeue(Queue *q){
 	q->head = elm->next;
 	
 	if (elm->next == NULL){
+		q->tail = NULL;
