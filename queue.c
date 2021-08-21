@@ -49,3 +49,7 @@ int *queue_dequeue(Queue *q){
 	elm->next = NULL;
 	return elm->data;
 }
+
+void queue_print(Queue *q){
+	int data;
+	while ((data = queue_dequeue(q)) != NULL){
