@@ -53,3 +53,6 @@ int *queue_dequeue(Queue *q){
 void queue_print(Queue *q){
 	int data;
 	while ((data = queue_dequeue(q)) != NULL){
+		printf("%d->", data);
+	}
+	printf("|\n");
