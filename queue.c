@@ -56,3 +56,4 @@ void queue_print(Queue *q){
 		printf("%d->", data);
 	}
 	printf("|\n");
+}
