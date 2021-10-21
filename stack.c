@@ -2,4 +2,4 @@
 #include <stdio.h>
 #include "stack.h"
 
-struct Stac
+struct Stack_ {
