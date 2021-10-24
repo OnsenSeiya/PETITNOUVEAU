@@ -3,4 +3,4 @@
 #include "stack.h"
 
 struct Stack_ {
-    int si
+    int size;
