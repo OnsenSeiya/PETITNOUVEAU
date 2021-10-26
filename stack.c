@@ -4,3 +4,4 @@
 
 struct Stack_ {
     int size;
+  
