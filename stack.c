@@ -4,4 +4,4 @@
 
 struct Stack_ {
     int size;
-    int e
+    int ele
