@@ -4,4 +4,4 @@
 
 struct Stack_ {
     int size;
-    int elems
+    int elems[5
