@@ -7,3 +7,4 @@ struct Stack_ {
     int elems[50];
 };
 
+Sta
