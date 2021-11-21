@@ -7,4 +7,4 @@ struct Stack_ {
     int elems[50];
 };
 
-Stack *stack
+Stack *stack_i
