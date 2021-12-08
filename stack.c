@@ -8,4 +8,4 @@ struct Stack_ {
 };
 
 Stack *stack_init(){
-    Stack *s = (Stack *
+    Stack *s = (Stack *) m
