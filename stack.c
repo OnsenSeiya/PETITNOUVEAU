@@ -8,4 +8,4 @@ struct Stack_ {
 };
 
 Stack *stack_init(){
-    Stack *s = (Stack *) malloc(sizeof(S
+    Stack *s = (Stack *) malloc(sizeof(St
