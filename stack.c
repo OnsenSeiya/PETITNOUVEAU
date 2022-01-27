@@ -10,4 +10,4 @@ struct Stack_ {
 Stack *stack_init(){
     Stack *s = (Stack *) malloc(sizeof(Stack));
     s->size = 0;
-    ret
+    retu
