@@ -13,4 +13,4 @@ Stack *stack_init(){
     return s;
 }
 
-void sta
+void stack_
