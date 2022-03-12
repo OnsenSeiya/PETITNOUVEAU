@@ -13,4 +13,4 @@ Stack *stack_init(){
     return s;
 }
 
-void stack_push(Stack *s, i
+void stack_push(Stack *s, int
