@@ -13,4 +13,5 @@ Stack *stack_init(){
     return s;
 }
 
-void stack_push(Stack *s, int elem)
+void stack_push(Stack *s, int elem){
+  
