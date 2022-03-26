@@ -14,4 +14,4 @@ Stack *stack_init(){
 }
 
 void stack_push(Stack *s, int elem){
-   
+    
