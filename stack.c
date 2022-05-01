@@ -17,4 +17,4 @@ void stack_push(Stack *s, int elem){
     s->elems[s->size++] = elem;
 }
 
-int stack_pop
+int stack_pop(S
