@@ -17,4 +17,4 @@ void stack_push(Stack *s, int elem){
     s->elems[s->size++] = elem;
 }
 
-int sta
+int stack_
