@@ -18,4 +18,4 @@ void stack_push(Stack *s, int elem){
 }
 
 int stack_pop(Stack *s){
-    return s->elems[--s->s
+    return s->elems[--s->size];
