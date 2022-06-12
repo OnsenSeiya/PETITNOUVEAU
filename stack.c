@@ -21,4 +21,4 @@ int stack_pop(Stack *s){
     return s->elems[--s->size];
 }
 
-void stack_f
+void stack_fr
