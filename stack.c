@@ -21,4 +21,4 @@ int stack_pop(Stack *s){
     return s->elems[--s->size];
 }
 
-void stack_free(Stack *s
+void stack_free(Stack *s){
