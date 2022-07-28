@@ -23,3 +23,4 @@ int stack_pop(Stack *s){
 
 void stack_free(Stack *s){
     free(s);
+}
