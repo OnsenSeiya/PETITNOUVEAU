@@ -25,4 +25,4 @@ void stack_free(Stack *s){
     free(s);
 }
 
-in
+int st
