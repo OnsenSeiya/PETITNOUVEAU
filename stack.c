@@ -25,4 +25,4 @@ void stack_free(Stack *s){
     free(s);
 }
 
-int stack_i
+int stack_isem
