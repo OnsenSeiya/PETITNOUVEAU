@@ -26,4 +26,4 @@ void stack_free(Stack *s){
 }
 
 int stack_isemtpty(Stack *s){
- 
+   
