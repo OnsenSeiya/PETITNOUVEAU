@@ -27,3 +27,4 @@ void stack_free(Stack *s){
 
 int stack_isemtpty(Stack *s){
     return (s->size == 0);
+}
