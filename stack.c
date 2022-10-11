@@ -29,3 +29,4 @@ int stack_isemtpty(Stack *s){
     return (s->size == 0);
 }
 
+v
