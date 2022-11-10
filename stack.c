@@ -29,4 +29,4 @@ int stack_isemtpty(Stack *s){
     return (s->size == 0);
 }
 
-void stack_print(St
+void stack_print(Stac
