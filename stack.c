@@ -30,4 +30,4 @@ int stack_isemtpty(Stack *s){
 }
 
 void stack_print(Stack *s){
-   
+    
