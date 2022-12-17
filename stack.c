@@ -31,4 +31,4 @@ int stack_isemtpty(Stack *s){
 
 void stack_print(Stack *s){
     printf("|");
-    while(!stack_isemt
+    while(!stack_isemtpty
