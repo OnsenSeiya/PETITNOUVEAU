@@ -32,4 +32,4 @@ int stack_isemtpty(Stack *s){
 void stack_print(Stack *s){
     printf("|");
     while(!stack_isemtpty(s)){
-        printf("<-%d", s
+        printf("<-%d", stac
