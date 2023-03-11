@@ -33,3 +33,4 @@ void stack_print(Stack *s){
     printf("|");
     while(!stack_isemtpty(s)){
         printf("<-%d", stack_pop(s));
+ 
